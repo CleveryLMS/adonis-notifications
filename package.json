@@ -1,5 +1,5 @@
 {
-  "name": "@verful/notifications",
+  "name": "@clevery/notifications",
   "description": "The easiest way to send notifications in AdonisJS",
   "version": "2.0.0",
   "repository": {
